@@ -1,4 +1,9 @@
 ## Project Setup
 
 -  [x] Git Setup
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+-  [x] Setup NVM :- help in keeping same node version across all team members
+    - [x] Install NVM
+    - [x] create .nvmrc file if not exist already and write node version in it
+    - [x] run `nvm use` to use node version from .nvmrc file
+    - [x] if node version not found then run `nvm install` to install node version from .nvmrc file and then run `nvm use` to use it
+- 
