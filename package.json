@@ -4,6 +4,9 @@
   "description": "A user authentication service",
   "main": "index.js",
   "scripts": {
+    "dev": "node src/server.js",
+    "format:check": "prettier . --check",
+    "format:fix": "prettier . --write",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -17,6 +20,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.8.10",
+    "prettier": "3.0.3",
     "typescript": "^5.2.2"
   }
 }
