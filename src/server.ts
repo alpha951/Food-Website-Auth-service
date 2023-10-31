@@ -5,7 +5,4 @@ function login(username: string, password: string) {
     return false;
   }
 }
-
-let ans: boolean = login("admin", "admin");
-
-console.log(ans);
+login("admin", "admin");

@@ -8,3 +8,5 @@
   - [x] if node version not found then run `nvm install` to install node version from .nvmrc file and then run `nvm use` to use it
 - [x] Install and Configure Typescript
 - [x] Configure prettier
+- [x] EsLint Setup
+     ESLint statically analyzes your code to quickly find problems.
