@@ -9,4 +9,4 @@
 - [x] Install and Configure Typescript
 - [x] Configure prettier
 - [x] EsLint Setup
-     ESLint statically analyzes your code to quickly find problems.
+      ESLint statically analyzes your code to quickly find problems.
